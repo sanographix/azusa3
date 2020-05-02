@@ -1,0 +1,32 @@
+Azusa 3
+=============
+
+Free Google Slides & Keynote Theme
+
+- <http://sanographix.github.io/azusa3/>
+
+# Install
+
+## For Google Slides
+
+- <https://docs.google.com/presentation/d/1zCNQDgWZHHwhHh2pWnv5UGHylEwhB9rMUqAeQPtXZnk/template/preview>
+
+## For Keynote
+
+### System requirements
+
+- macOS Keynote v10.0
+
+### Install
+
+1. Unzip `azusa3.zip`
+2. Open `theme-azusa3.kth`
+3. Select "Add to theme selector".
+
+# Author
+
+#### @sanographix
+
+* <http://www.sanographix.net/>
+* Twitter: [@sanographix](https://twitter.com/sanographix)
+* GitHub: [sanographix](https://github.com/sanographix)
