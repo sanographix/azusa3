@@ -29,6 +29,6 @@ Free Google Slides & Keynote Theme
 
 #### @sanographix
 
-* <http://www.sanographix.net/>
+* <https://www.sanographix.net/>
 * Twitter: [@sanographix](https://twitter.com/sanographix)
 * GitHub: [sanographix](https://github.com/sanographix)
