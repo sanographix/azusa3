@@ -15,7 +15,7 @@ Free Google Slides & Keynote Theme
 
 ### System requirements
 
-- macOS Keynote v10.0
+- Keynote v10.0 (for macOS)
 
 ### Install
 
