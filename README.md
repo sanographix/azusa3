@@ -3,13 +3,9 @@ Azusa 3
 
 Free Google Slides & Keynote Theme
 
-- <http://sanographix.github.io/azusa3/>
+- <https://azusa3.sanographix.net>
 
-# Install
-
-## For Google Slides
-
-- <https://docs.google.com/presentation/d/1zCNQDgWZHHwhHh2pWnv5UGHylEwhB9rMUqAeQPtXZnk/template/preview>
+# Download & Install
 
 ## For Keynote
 
@@ -24,6 +20,11 @@ Free Google Slides & Keynote Theme
 1. Unzip `azusa3-3.0.zip`
 2. Open `azusa3.kth`
 3. Select "Add to theme selector".
+
+## For Google Slides
+
+- <https://docs.google.com/presentation/d/1zCNQDgWZHHwhHh2pWnv5UGHylEwhB9rMUqAeQPtXZnk/template/preview>
+
 
 # Author
 
