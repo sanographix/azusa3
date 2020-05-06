@@ -17,7 +17,7 @@ Free Google Slides & Keynote Theme
 
 - <https://github.com/sanographix/azusa3/archive/v3.0.1.zip>
 
-1. Unzip file
+1. Unzip the file
 2. Open `azusa3.kth`
 3. Select "Add to theme selector".
 
